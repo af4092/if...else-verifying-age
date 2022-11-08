@@ -1,5 +1,5 @@
 # if...else-verifying-age
-if... else in the example of Age verification.
+
 This is the simple age verification example, which firstly asks for the name and get the gender, based on this it executes particular line of codes and finally checks for age by asking the birthdate (age = 2022year-birthdate): 
 
     import java.util.Scanner;
