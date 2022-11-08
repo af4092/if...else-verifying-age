@@ -8,6 +8,7 @@ This is the simple age verification example, which firstly asks for the name and
     Scanner input = new Scanner(System.in);
     String name, gender;
     Double age, birthdate;
+    
     System.out.println("What is your name? ");
     name = input.nextLine();
     
@@ -33,5 +34,5 @@ This is the simple age verification example, which firstly asks for the name and
                 }
         }
     }
-}
+    }
 
