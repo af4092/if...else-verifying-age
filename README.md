@@ -33,6 +33,22 @@ This is the simple age verification example, which firstly asks for the name and
                             System.out.println("Sorry Ms." + name + ", you are not allowed to buy ALCOHOL, pls come back when you grow up :(");
                 }
         }
+      }
     }
-    }
+
+1. this is the example output for following samples: name.Frank; gender.m; birthdate.1985:
+
+![image](https://user-images.githubusercontent.com/24220136/200557320-5e8d3beb-e2af-4903-be34-5fb928bfa4b5.png)
+
+2. this is the example output for following samples: name.Frank; gender.m; birthdate.2007:
+
+![image](https://user-images.githubusercontent.com/24220136/200557439-d2425d05-2df9-4bcd-adda-1ebacdb94f2f.png)
+
+3. this is the example output for following samples: name.Anna; gender.f; birthdate.1991:
+
+![image](https://user-images.githubusercontent.com/24220136/200557588-5785c693-3ae5-4a41-ab11-7dc690d65ead.png)
+
+4. this is the example output for following samples: name.Anna; gender.f; birthdate.2005:
+
+![image](https://user-images.githubusercontent.com/24220136/200557717-b8cbbefc-cfaa-46a9-95c0-a0093c2d0325.png)
 
